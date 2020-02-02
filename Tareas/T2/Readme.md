@@ -15,6 +15,7 @@ Este TDA proporciona una funcionalidad básica para transferir monedas
  returns (duenio)
 ```
  condicion: cantidadCuentaDestino<cantidad
+ 
  Efecto: devuelve un estado de cuenta nuevo al ser este modificado por la transferencia
  
 
