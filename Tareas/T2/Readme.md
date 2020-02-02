@@ -25,11 +25,13 @@ Efecto: devuelve el nombre de la moneda
  public void mostrarCuentas() devuelve cuentas
 ```
 Condicion: Existencia de cuentas 
+
 Efecto: Devuelve el numero de cuenta, cantidad de monedas de cada cliente
 
  ```
  public void setCantidad() 
 ```
+Efecto: modifica el valor de la cantidad de monedas en el monedero
 
 ```
  public void TransferenciaForm(cuentaDestino, cuentaReceptor, cantidad) 
