@@ -5,7 +5,7 @@ Especificaciones Informales
 ## Moneda
 tipos de datos es,TransferenciaMonedero,crear,TransferenciaForm,MostrarCuentas,getNombre,setCantidad
 
-## Descripción
+## Resumen
 Este TDA proporciona una funcionalidad básica para transferir monedas
 
 
