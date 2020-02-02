@@ -3,13 +3,13 @@
 Especificaciones Informales
 
 ## Moneda
-tipos de datos es,TransferenciaMonedero,crear,TransferenciaForm,MostrarCuentas
+tipos de datos es,TransferenciaMonedero,crear,TransferenciaForm,MostrarCuentas,getNombre,setCantidad
 
-## Descripcion
+## Descripción
 Este TDA proporciona una funcionalidad básica para transferir monedas
 
 
-### Metodos
+### Métodos
  ```
  public void agregarMoneda(nombre,cantidad)
 ```
