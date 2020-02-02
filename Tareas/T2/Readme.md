@@ -49,7 +49,8 @@ Efecto: modifica el valor de la cantidad de monedas en el monedero
  
  Efecto: Transfiere mondeas desde el monedero hacia la cuenta cliente solicitada
  
- 
+ ### Implementacion
+ Generar transacciones entre usuarios sin importar el tipo de moneda 
 
 
 
